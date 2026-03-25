@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divyansh Airon</h1>
 <h3 align="center">A passionate AI/ML enthusiast</h3>
 
-- 🔭 I’m currently working on **AI/ML projects**
+- 🔭 I’m currently working on **AI/ML and Deep Learning projects**
 
 - 👯 I’m looking to collaborate on **Machine Learning projects**
 
